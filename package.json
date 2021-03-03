@@ -27,7 +27,7 @@
   "files": [
     "index.js",
     "index.d.ts",
-    "script/**/*",
+    "scripts/**/*",
     "scheme/**/*",
     "src/**/*.js"
   ],

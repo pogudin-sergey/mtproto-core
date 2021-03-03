@@ -27,6 +27,8 @@
   "files": [
     "index.js",
     "index.d.ts",
+    "script/**/*",
+    "scheme/**/*",
     "src/**/*.js"
   ],
   "engines": {

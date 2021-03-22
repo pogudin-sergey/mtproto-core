@@ -18,12 +18,15 @@
     "telegram-web",
     "telegram-online"
   ],
-  "homepage": "https://github.com/alik0211/mtproto-core#readme",
+  "homepage": "https://github.com/pogudin-sergey/mtproto-core#readme",
   "bugs": {
-    "url": "https://github.com/alik0211/mtproto-core/issues"
+    "url": "https://github.com/pogudin-sergey/mtproto-core/issues"
   },
   "author": "Ali Gasymov <alik0211alik@gmail.com> (https://gasymov.com/)",
-  "repository": "github:alik0211/mtproto-core",
+  "contributors": [
+    "Pogudin Sergey <sergey@pogudin.pro> (https://pogudin.pro/)"
+  ],
+  "repository": "github:pogudin-sergey/mtproto-core",
   "files": [
     "index.js",
     "index.d.ts",
